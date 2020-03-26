@@ -26,13 +26,13 @@ This project is the deliverable for **01 HTML CSS Git: Code Refactor**. The over
 
 * Changed `<div class="benefits">` to `<aside>`.
 
-* Under `<aside>`, changed all `<div>`s to `<section>`s. Removed the `class` attribute from all `<sections>`.
+* Under `<aside>`, changed all `<div>`s to `<section>`s. Removed the `class` attribute from all `<section>`s.
 
 * Within `<aside>`'s last `<section>`, changed `<img></img>` to `<img />`.
 
 * Changed `<div class="footer">` to `<footer>`.
 
-* Added descriptive `alt` text to all `img`s.
+* Added descriptive `alt` text to all `<img>`s.
 
 ### style.css
 * Re-organized the CSS to make it a bit easier to follow. Put document-wide properties at the top and then reordered the rest to match the document flow.
