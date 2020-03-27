@@ -50,11 +50,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav menu {
+header nav ul {
     list-style-type: none;
 }
 
-header nav menu li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
