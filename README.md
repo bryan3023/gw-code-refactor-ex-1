@@ -16,6 +16,8 @@ This project is the deliverable for **01 HTML CSS Git: Code Refactor**. The over
 
 * Changed the `<div>` within `<header>` to `<nav>`.
 
+* Changed the `<ul>` within `<nav>` to `<menu>`.
+
 * Changed `<div class="hero">` to `<div class="hero-image">` to make it a bit more [self-documenting](https://en.wikipedia.org/wiki/Self-documenting_code). I didn't see a semantic tag that would be appropriate in this case.
 
 * Changed `<div class="content">` to `<main>`.
